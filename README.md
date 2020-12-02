@@ -1,8 +1,8 @@
 # E-commerce Book 
 JSP with Servlet
 ### Techs:
-  -JSP
-  -Servlet
-  -JPA
-  -JUnit
+  - JSP
+  - Servlet
+  - JPA
+  - JUnit
   
