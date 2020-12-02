@@ -5,4 +5,6 @@ JSP with Servlet
   - Servlet
   - JPA
   - JUnit
+  - JSTL
+  - Mysql
   
